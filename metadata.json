@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Banner & Profile Studio",
+  "description": "Interactive visual simulator and design studio for the new TikTok profile banner feature with custom themes, aesthetic safe zones, profile customization, and engagement preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
